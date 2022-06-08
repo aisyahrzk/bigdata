@@ -2,7 +2,7 @@
 
 1. Case Study on Financial Company Possible Big Data Analytics Solution - FRAUD DETECTION
 
-![Pipeline Implementation](bigdata/Pipeline.PNG).
+![Pipeline Implementation](Pipeline.PNG).
 
 
 
